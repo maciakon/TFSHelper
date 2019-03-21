@@ -1,0 +1,876 @@
+{
+	"count": 13,
+	"value": [{
+			"id": 100000,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:26Z",
+			"completedDate": "2019-03-21T07:27:26.1Z",
+			"durationInMs": 100.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "ExportFileSyncDataFromMemory"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100000",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "ExportFileSyncDataFromMemory",
+			"customFields": [],
+			"testCaseReferenceId": 17611185,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.OtherDevice.OtherDeviceExaminationFillerTest.ExportFileSyncDataFromMemory"
+		}, {
+			"id": 100001,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:26Z",
+			"completedDate": "2019-03-21T07:27:26.05Z",
+			"durationInMs": 50.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "ShouldMethodFillExaminationDataBeCanceled"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100001",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "ShouldMethodFillExaminationDataBeCanceled",
+			"customFields": [],
+			"testCaseReferenceId": 17611187,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.RetinalExaminationFillerTest.ShouldMethodFillExaminationDataBeCanceled"
+		}, {
+			"id": 100002,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:26Z",
+			"completedDate": "2019-03-21T07:27:26.007Z",
+			"durationInMs": 7.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "ShouldGetInstitutionNameFromFileInCaseOfLackInstitutionNameInExdFile"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100002",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "ShouldGetInstitutionNameFromFileInCaseOfLackInstitutionNameInExdFile",
+			"customFields": [],
+			"testCaseReferenceId": 17611183,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.Oct.OctExaminationContentImporterTest.ShouldGetInstitutionNameFromFileInCaseOfLackInstitutionNameInExdFile"
+		}, {
+			"id": 100003,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:26Z",
+			"completedDate": "2019-03-21T07:27:26.053Z",
+			"durationInMs": 53.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "ImportShouldNotPerformExaminationCorrectionAndPersistanceShouldCallPersist"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100003",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "ImportShouldNotPerformExaminationCorrectionAndPersistanceShouldCallPersist",
+			"customFields": [],
+			"testCaseReferenceId": 17611184,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.OtherDevice.OtherDeviceExaminationContentImporterTest.ImportShouldNotPerformExaminationCorrectionAndPersistanceShouldCallPersist"
+		}, {
+			"id": 100004,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:26Z",
+			"completedDate": "2019-03-21T07:27:26.01Z",
+			"durationInMs": 10.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "ShouldMethodFillExaminationDataPartialyComplete"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100004",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "ShouldMethodFillExaminationDataPartialyComplete",
+			"customFields": [],
+			"testCaseReferenceId": 17611189,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.RetinalExaminationFillerTest.ShouldMethodFillExaminationDataPartialyComplete"
+		}, {
+			"id": 100005,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:26Z",
+			"completedDate": "2019-03-21T07:27:26.047Z",
+			"durationInMs": 47.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "ImportShouldNotPerformExaminationCorrectionAndPersistanceShouldCallPersist"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100005",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "ImportShouldNotPerformExaminationCorrectionAndPersistanceShouldCallPersist",
+			"customFields": [],
+			"testCaseReferenceId": 17611186,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.Retinal.RetinalExaminationContentImporterTest.ImportShouldNotPerformExaminationCorrectionAndPersistanceShouldCallPersist"
+		}, {
+			"id": 100006,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:25Z",
+			"completedDate": "2019-03-21T07:27:25.427Z",
+			"durationInMs": 427.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "ImportShouldNotPerformExaminationCorrectionAndPersistanceShouldCallPersist"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100006",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "ImportShouldNotPerformExaminationCorrectionAndPersistanceShouldCallPersist",
+			"customFields": [],
+			"testCaseReferenceId": 17611181,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.Oct.OctExaminationContentImporterTest.ImportShouldNotPerformExaminationCorrectionAndPersistanceShouldCallPersist"
+		}, {
+			"id": 100007,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:25Z",
+			"completedDate": "2019-03-21T07:27:25.053Z",
+			"durationInMs": 53.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "CorrectContentInfoVersionShouldFillAppAndLastAppVersionWhenItsNull"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100007",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "CorrectContentInfoVersionShouldFillAppAndLastAppVersionWhenItsNull",
+			"customFields": [],
+			"testCaseReferenceId": 17611177,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.ExaminationContentImporterTest.CorrectContentInfoVersionShouldFillAppAndLastAppVersionWhenItsNull"
+		}, {
+			"id": 100008,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:25Z",
+			"completedDate": "2019-03-21T07:27:25.643Z",
+			"durationInMs": 643.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "ShouldGetDefaultInstitutionNameInCaseOfLackInstitutionNameInExdFile"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100008",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "ShouldGetDefaultInstitutionNameInCaseOfLackInstitutionNameInExdFile",
+			"customFields": [],
+			"testCaseReferenceId": 17611182,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.Oct.OctExaminationContentImporterTest.ShouldGetDefaultInstitutionNameInCaseOfLackInstitutionNameInExdFile"
+		}, {
+			"id": 100009,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:25Z",
+			"completedDate": "2019-03-21T07:27:25.007Z",
+			"durationInMs": 7.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "CorrectStudyInstitutionNameShouldFillInstitutionNameWhenItsNull"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100009",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "CorrectStudyInstitutionNameShouldFillInstitutionNameWhenItsNull",
+			"customFields": [],
+			"testCaseReferenceId": 17611180,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.ExaminationContentImporterTest.CorrectStudyInstitutionNameShouldFillInstitutionNameWhenItsNull"
+		}, {
+			"id": 100010,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:25Z",
+			"completedDate": "2019-03-21T07:27:25.003Z",
+			"durationInMs": 3.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "CorrectSeriesInfoVersionShouldFillAppAndLastAppVersionWhenItsNull"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100010",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "CorrectSeriesInfoVersionShouldFillAppAndLastAppVersionWhenItsNull",
+			"customFields": [],
+			"testCaseReferenceId": 17611178,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.ExaminationContentImporterTest.CorrectSeriesInfoVersionShouldFillAppAndLastAppVersionWhenItsNull"
+		}, {
+			"id": 100011,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:26Z",
+			"completedDate": "2019-03-21T07:27:26.037Z",
+			"durationInMs": 37.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "ShouldMethodFillExaminationDataComplete"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100011",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "ShouldMethodFillExaminationDataComplete",
+			"customFields": [],
+			"testCaseReferenceId": 17611188,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.RetinalExaminationFillerTest.ShouldMethodFillExaminationDataComplete"
+		}, {
+			"id": 100012,
+			"project": {
+				"id": "15e72c3e-ee16-457a-949a-7503c860fd41",
+				"name": "M210",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/projects/M210"
+			},
+			"startedDate": "2019-03-21T07:27:25Z",
+			"completedDate": "2019-03-21T07:27:25.003Z",
+			"durationInMs": 3.0,
+			"outcome": "Passed",
+			"revision": 1,
+			"state": "Completed",
+			"testCase": {
+				"name": "CorrectStudyInfoVersionShouldFillAppAndLastAppVersionWhenItsNull"
+			},
+			"testRun": {
+				"id": "254306",
+				"name": "Fragile Canon.IO.Exd.Implementation tests",
+				"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306"
+			},
+			"lastUpdatedDate": "2019-03-21T07:27:27.207Z",
+			"priority": 255,
+			"computerName": "WRO-TFSB",
+			"build": {
+				"id": "53534",
+				"name": "Main [G]_20190321.1",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/build/Builds/53534"
+			},
+			"createdDate": "2019-03-21T07:27:27.207Z",
+			"url": "http://wro-tfs:8080/tfs/COT/M210/_apis/test/Runs/254306/Results/100012",
+			"failureType": "None",
+			"automatedTestStorage": "canon.io.exd.implementation.test.dll",
+			"automatedTestType": "UnitTest",
+			"area": {
+				"id": "4",
+				"name": "M210",
+				"url": "vstfs:///Classification/Node/b0edf841-72dc-4b3c-bcb2-85c40a443a50"
+			},
+			"testCaseTitle": "CorrectStudyInfoVersionShouldFillAppAndLastAppVersionWhenItsNull",
+			"customFields": [],
+			"testCaseReferenceId": 17611179,
+			"runBy": {
+				"displayName": "Michał Rak",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+					}
+				},
+				"id": "ea4cf011-be6b-40c3-87f9-e21f56534ebd",
+				"uniqueName": "WROCLAW\\m.rak",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=ea4cf011-be6b-40c3-87f9-e21f56534ebd"
+			},
+			"lastUpdatedBy": {
+				"displayName": "Project Collection Build Service (COT)",
+				"url": "http://wro-tfs:8080/tfs/COT/_apis/Identities/0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"_links": {
+					"avatar": {
+						"href": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+					}
+				},
+				"id": "0e11cf75-b6a9-4059-b073-6a43b6df02b6",
+				"uniqueName": "Build\\c0c10c38-f990-4699-a7ec-b575c898e0e3",
+				"imageUrl": "http://wro-tfs:8080/tfs/COT/_api/_common/identityImage?id=0e11cf75-b6a9-4059-b073-6a43b6df02b6"
+			},
+			"automatedTestName": "Optopol.IO.Exd.Implementation.Test.ExaminationContentImporterTest.CorrectStudyInfoVersionShouldFillAppAndLastAppVersionWhenItsNull"
+		}
+	]
+}
